@@ -1,0 +1,11 @@
+rida - row
+veerg - column
+kirje - record
+mingi väli - field
+
+Relatsiooniline andmebaas(Relationship) - teatud tüüpi andmebaas, mis salvestab ja pakub juurdepääsu üksteisega seotud andmetele.
+Oracle, MySQL -> MariaDB, MS SQL, PostgreSQL, Microsoft Access, SQLite, FoxPro
+
+Andmebaas + DBMS (database management system)
+Andmemudel - korrastab andmeelemente ja standardib andmeelementide omavahelist seost.
+ERD(Entity–relationship model) - Olemi ja suhete mudel kirjeldab omavahel seotud asju, mis pakuvad huvi konkreetses teadmistevaldkonnas. 
